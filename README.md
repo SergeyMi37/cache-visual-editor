@@ -1,7 +1,7 @@
 # Caché Visual Editor <sup>(alpha)</sup>
 
 A Web-based user interface for InterSystems Caché which allows to create and manage classes
-literally without touching any code.
+literally without touching any code. Download the latest release from the [releases page](https://github.com/intersystems-ru/cache-visual-editor/releases).
 
 Features
 --------
